@@ -1,1 +1,1 @@
-# restorant_management-system
+# restorant-management-system
